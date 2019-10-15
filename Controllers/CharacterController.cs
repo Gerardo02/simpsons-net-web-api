@@ -55,7 +55,7 @@ namespace simpsons_net_web_api.Controllers
                 Description = ""
             },
         };
-        string connectionString = @"data source=LAPTOP-K3KG8SGC\SQLEXPRESS; catalog=db_simpsons; user id=simpsons; password=1234";
+        string connectionString = @"data source=LAPTOP-K3KG8SGC\SQLEXPRESS; initial catalog=db_simpsons; user id=simpsons; password=1234";
         [HttpGet("{id}")]
         public Character GetCharacter(int id)
         {
