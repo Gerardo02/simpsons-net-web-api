@@ -16,3 +16,10 @@ C:\Users\Gerardo\documents\practicas-web\simpsons-net-web-api\obj\Debug\netcorea
 C:\Users\Gerardo\documents\practicas-web\simpsons-net-web-api\obj\Debug\netcoreapp3.0\simpsons-net-web-api.RazorTargetAssemblyInfo.cache
 C:\Users\Gerardo\documents\practicas-web\simpsons-net-web-api\obj\Debug\netcoreapp3.0\simpsons-net-web-api.dll
 C:\Users\Gerardo\documents\practicas-web\simpsons-net-web-api\obj\Debug\netcoreapp3.0\simpsons-net-web-api.pdb
+C:\Users\Gerardo\Documents\practicas-web\simpsons-net-web-api\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\Gerardo\Documents\practicas-web\simpsons-net-web-api\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gerardo\Documents\practicas-web\simpsons-net-web-api\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gerardo\Documents\practicas-web\simpsons-net-web-api\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gerardo\Documents\practicas-web\simpsons-net-web-api\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gerardo\Documents\practicas-web\simpsons-net-web-api\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gerardo\Documents\practicas-web\simpsons-net-web-api\obj\Debug\netcoreapp3.0\simpsons-net-web-api.csproj.CopyComplete
